@@ -1,0 +1,20 @@
+id: AB9429EAB
+title: Toh_54-The_Exposition_on_the_Universal_Gateway-v2
+type: translation
+pechas:
+- I8D3DC141
+- I65845B02
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-040-005
+  eft-text-version: 1.0.7 2021
+  title: Toh_54-The_Exposition_on_the_Universal_Gateway-v2
+alignment_to_base:
+  I8D3DC141/D444: D8E3
+  I65845B02/F2C0: D8E3
